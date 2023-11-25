@@ -13,7 +13,6 @@ def part2(input):
 
 filename = "input/XX.txt"
 #input = files.input_as_list(filename)
-input = ""
 
 print()
 
